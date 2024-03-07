@@ -94,7 +94,7 @@ python train_ade.py -c configs/config_ade.json \
 python eval_voc.py -d 0 -r path/to/weight.pth
 ```
 
-We provide pretrained weights, augmented images and adapter checkpoint (lora, text token) and configuration files. 
+We provide pretrained weights, augmented images and adapter checkpoint (lora, text token) and configuration files from this link.
 
  - [x] configuration files.
  - [x] pretrained weights, 
